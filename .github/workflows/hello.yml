@@ -16,4 +16,4 @@ jobs:
         run: echo "Hello, GitHub Actions!"
 
       - name: ブランチ名を表示
-        run: echo "Branch: ${{ github.ref_name }}"
+        run: 'echo "Branch: ${{ github.ref_name }}"'
