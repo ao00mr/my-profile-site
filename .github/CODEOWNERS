@@ -1,0 +1,8 @@
+# このリポジトリ全体のデフォルトレビュアー
+* @ao00mr
+
+# HTMLファイルを変えたら確認
+*.html @ao00mr
+
+# GitHub Actions の設定を変えたら確認
+.github/workflows/* @ao00mr
